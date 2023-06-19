@@ -1,0 +1,4 @@
+[submodule "template-gendloopAction"]
+	path = template-gendloopAction
+	url = https://github.com/gendloop/template-gendloopAction
+	branch = main
