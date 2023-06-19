@@ -2,3 +2,7 @@
 	path = template-gendloopAction
 	url = https://github.com/gendloop/template-gendloopAction
 	branch = main
+[submodule "template-gendloopApp"]
+	path = template-gendloopApp
+	url = https://github.com/gendloop/template-gendloopApp
+	branch = main
