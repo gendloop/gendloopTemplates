@@ -1,1 +1,21 @@
-429: Too Many Requests
+name: Update_Submodules
+
+permissions:
+  contents: write
+  actions: write
+
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron: '35 16 * * *'
+
+jobs:
+  update_submodules:
+    runs-on: ubuntu-latest
+    steps:
+      - name: update-submodules
+        uses: gendloop/update-submodules@main
+        with: 
+          token: ${{ secrets.GENDLOOP_ACCESS_TOKEN }}
+
+      
