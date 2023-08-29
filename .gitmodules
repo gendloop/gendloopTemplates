@@ -10,3 +10,7 @@
 	path = template-gendloopAppInstaller
 	url = https://github.com/gendloop/template-gendloopAppInstaller
 	branch = main
+[submodule "template-gendloopSubmodules"]
+	path = template-gendloopSubmodules
+	url = https://github.com/gendloop/template-gendloopSubmodules
+	branch = main
