@@ -22,3 +22,7 @@
 	path = template-gendloopAppV
 	url = https://github.com/gendloop/template-gendloopAppV
 	branch = main
+[submodule "template-gendloopAppR"]
+	path = template-gendloopAppR
+	url = https://github.com/gendloop/template-gendloopAppR
+	branch = main
