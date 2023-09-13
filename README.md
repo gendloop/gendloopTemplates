@@ -1,5 +1,6 @@
 # gendloopTemplates
 
+[![template-gendloopAppInstallerR](https://img.shields.io/static/v1?label=Templates&message=template-gendloopAppInstallerR&color=blue)](https://github.com/gendloop/template-gendloopAppInstallerR/tree/main) 
 [![template-gendloopAppR](https://img.shields.io/static/v1?label=Templates&message=template-gendloopAppR&color=blue)](https://github.com/gendloop/template-gendloopAppR/tree/main) 
 [![template-gendloopAppV](https://img.shields.io/static/v1?label=Templates&message=template-gendloopAppV&color=blue)](https://github.com/gendloop/template-gendloopAppV/tree/main) 
 [![template-gendloopAppInstallerV](https://img.shields.io/static/v1?label=Templates&message=template-gendloopAppInstallerV&color=blue)](https://github.com/gendloop/template-gendloopAppInstallerV/tree/main) 
