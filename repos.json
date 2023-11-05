@@ -1,10 +1,14 @@
 {
+  "name": "template-gendloopApp",
+  "description": "template-app"
+}
+{
   "name": "template-gendloopAppR",
   "description": null
 }
 {
-  "name": "template-gendloopApp",
-  "description": "template-app"
+  "name": "template-gendloopAction",
+  "description": "Action template"
 }
 {
   "name": "template-gendloopAppInstallerR",
@@ -13,10 +17,6 @@
 {
   "name": "template-gendloopAppInstallerV",
   "description": null
-}
-{
-  "name": "template-gendloopAction",
-  "description": "Action template"
 }
 {
   "name": "template-gendloopAppV",
