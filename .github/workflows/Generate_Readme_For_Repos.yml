@@ -19,6 +19,6 @@ jobs:
       - name: generate-readme-for-repos
         uses: gendloop/generate-readme-for-repos@v1.0.0
         with: 
-          label: 'topic:template'
+          label: 'Template'
 
       
