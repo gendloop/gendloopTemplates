@@ -1,36 +1,36 @@
 {
-  "name": "template-gendloopApp",
-  "description": "template-app"
+  "name": "template-gendloopAction",
+  "description": "action template"
 }
 {
   "name": "template-gendloopAppR",
-  "description": null
+  "description": "release app template"
 }
 {
-  "name": "template-gendloopAppInstallerV",
-  "description": null
+  "name": "template-gendloopApp",
+  "description": "dist app template"
 }
 {
   "name": "template-gendloopAppInstallerR",
-  "description": null
+  "description": "release installer template"
 }
 {
-  "name": "template-gendloopAction",
-  "description": "Action template"
+  "name": "template-gendloopAppInstallerV",
+  "description": "dist segment installer template"
 }
 {
   "name": "template-gendloopAppV",
-  "description": null
+  "description": "dist segment app template"
 }
 {
   "name": "template-gendloopSubmodules",
-  "description": null
-}
-{
-  "name": "template-gendloopAppInstaller",
-  "description": null
+  "description": "submodules template"
 }
 {
   "name": "template-gendloopProject",
   "description": "project template"
+}
+{
+  "name": "template-gendloopAppInstaller",
+  "description": "dist installer template"
 }
