@@ -1,17 +1,17 @@
 {
-  "name": "template-gendloopAppInstallerR",
-  "description": null
+  "name": "template-gendloopAction",
+  "description": "Action template"
 }
 {
   "name": "template-gendloopAppInstallerV",
   "description": null
 }
 {
-  "name": "template-gendloopAction",
-  "description": "Action template"
+  "name": "template-gendloopAppInstallerR",
+  "description": null
 }
 {
-  "name": "template-gendloopAppR",
+  "name": "template-gendloopAppV",
   "description": null
 }
 {
@@ -19,14 +19,18 @@
   "description": "template-app"
 }
 {
-  "name": "template-gendloopAppV",
-  "description": null
-}
-{
-  "name": "template-gendloopSubmodules",
+  "name": "template-gendloopAppR",
   "description": null
 }
 {
   "name": "template-gendloopAppInstaller",
+  "description": null
+}
+{
+  "name": "template-gendloopProject",
+  "description": "project template"
+}
+{
+  "name": "template-gendloopSubmodules",
   "description": null
 }
