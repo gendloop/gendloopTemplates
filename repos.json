@@ -3,16 +3,16 @@
   "description": "action template"
 }
 {
-  "name": "template-gendloopAppV",
-  "description": "dist segment app template"
+  "name": "template-gendloopAppInstallerV",
+  "description": "dist segment installer template"
 }
 {
   "name": "template-gendloopAppInstallerR",
   "description": "release installer template"
 }
 {
-  "name": "template-gendloopAppInstallerV",
-  "description": "dist segment installer template"
+  "name": "template-gendloopAppV",
+  "description": "dist segment app template"
 }
 {
   "name": "template-gendloopAppR",
@@ -23,14 +23,14 @@
   "description": "dist app template"
 }
 {
-  "name": "template-gendloopSubmodules",
-  "description": "submodules template"
+  "name": "template-gendloopAppInstaller",
+  "description": "dist installer template"
 }
 {
   "name": "template-gendloopProject",
   "description": "project template"
 }
 {
-  "name": "template-gendloopAppInstaller",
-  "description": "dist installer template"
+  "name": "template-gendloopSubmodules",
+  "description": "submodules template"
 }
