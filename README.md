@@ -9,5 +9,5 @@
 | 5 | [![template-gendloopAppInstallerR](https://img.shields.io/static/v1?label=Template&message=template-gendloopAppInstallerR&color=blue)](https://github.com/gendloop/template-gendloopAppInstallerR)| release installer template |
 | 6 | [![template-gendloopAppInstallerV](https://img.shields.io/static/v1?label=Template&message=template-gendloopAppInstallerV&color=blue)](https://github.com/gendloop/template-gendloopAppInstallerV)| dist segment installer template |
 | 7 | [![template-gendloopSubmodules](https://img.shields.io/static/v1?label=Template&message=template-gendloopSubmodules&color=blue)](https://github.com/gendloop/template-gendloopSubmodules)| submodules template |
-| 8 | [![template-gendloopProject](https://img.shields.io/static/v1?label=Template&message=template-gendloopProject&color=blue)](https://github.com/gendloop/template-gendloopProject)| project template |
-| 9 | [![template-gendloopAppInstaller](https://img.shields.io/static/v1?label=Template&message=template-gendloopAppInstaller&color=blue)](https://github.com/gendloop/template-gendloopAppInstaller)| dist installer template |
+| 8 | [![template-gendloopAppInstaller](https://img.shields.io/static/v1?label=Template&message=template-gendloopAppInstaller&color=blue)](https://github.com/gendloop/template-gendloopAppInstaller)| dist installer template |
+| 9 | [![template-gendloopProject](https://img.shields.io/static/v1?label=Template&message=template-gendloopProject&color=blue)](https://github.com/gendloop/template-gendloopProject)| project template |
