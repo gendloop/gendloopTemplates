@@ -27,10 +27,10 @@
   "description": "submodules template"
 }
 {
-  "name": "template-gendloopProject",
-  "description": "project template"
-}
-{
   "name": "template-gendloopAppInstaller",
   "description": "dist installer template"
+}
+{
+  "name": "template-gendloopProject",
+  "description": "project template"
 }
