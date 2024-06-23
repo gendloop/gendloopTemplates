@@ -7,12 +7,12 @@
   "description": "release app template"
 }
 {
-  "name": "template-gendloopAction",
-  "description": "action template"
-}
-{
   "name": "template-gendloopAppV",
   "description": "dist segment app template"
+}
+{
+  "name": "template-gendloopAction",
+  "description": "action template"
 }
 {
   "name": "template-gendloopAppInstallerV",
