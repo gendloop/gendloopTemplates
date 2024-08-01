@@ -1,4 +1,8 @@
 {
+  "name": "template-gendloopAction",
+  "description": "action template"
+}
+{
   "name": "template-gendloopApp",
   "description": "dist app template"
 }
@@ -13,10 +17,6 @@
 {
   "name": "template-gendloopAppInstallerR",
   "description": "release installer template"
-}
-{
-  "name": "template-gendloopAction",
-  "description": "action template"
 }
 {
   "name": "template-gendloopAppV",
