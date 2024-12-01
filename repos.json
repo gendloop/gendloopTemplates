@@ -1,14 +1,22 @@
 {
+  "name": "template-GitbookProject",
+  "description": "创建 Gitbook 项目仓库"
+}
+{
+  "name": "template-gendloopSubmodules",
+  "description": "创建 Submodules 仓库"
+}
+{
   "name": "template-gendloopAction",
   "description": "创建 Action 仓库"
 }
 {
-  "name": "template-gendloopAppInstaller",
-  "description": "创建软件安装包(位于 dist/)仓库"
+  "name": "template-gendloopAppInstallerR",
+  "description": "创建软件安装包(位于 Releases)仓库"
 }
 {
-  "name": "template-gendloopProject",
-  "description": "创建新项目仓库"
+  "name": "template-gendloopAppInstallerV",
+  "description": "创建分卷压缩软件安装包(位于 dist/)仓库"
 }
 {
   "name": "template-gendloopApp",
@@ -19,16 +27,12 @@
   "description": "创建软件(位于 Releases)仓库"
 }
 {
-  "name": "template-gendloopAppInstallerV",
-  "description": "创建分卷压缩软件安装包(位于 dist/)仓库"
+  "name": "template-gendloopProject",
+  "description": "创建新项目仓库"
 }
 {
-  "name": "template-gendloopAppInstallerR",
-  "description": "创建软件安装包(位于 Releases)仓库"
-}
-{
-  "name": "template-gendloopSubmodules",
-  "description": "创建 Submodules 仓库"
+  "name": "template-gendloopAppInstaller",
+  "description": "创建软件安装包(位于 dist/)仓库"
 }
 {
   "name": "template-gendloopAppV",
