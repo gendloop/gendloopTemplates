@@ -7,24 +7,28 @@
   "description": "创建分卷压缩软件安装包(位于 dist/)仓库, 已弃用"
 }
 {
-  "name": "template-GitbookProject",
-  "description": "创建 Gitbook 项目仓库"
+  "name": "template-gendloopSubmodules",
+  "description": "创建 Submodules 仓库"
 }
 {
   "name": "template-gendloopAppV",
   "description": "创建分卷压缩软件(位于 dist/)仓库, 已弃用"
 }
 {
-  "name": "template-gendloopSubmodules",
-  "description": "创建 Submodules 仓库"
-}
-{
   "name": "template-SlidesProject",
   "description": "从 markdown 文件生成幻灯片 PPT"
 }
 {
+  "name": "template-GitbookProject",
+  "description": "创建 Gitbook 项目仓库"
+}
+{
   "name": "template-CompositeProject",
   "description": "有三方库依赖的项目模板"
+}
+{
+  "name": "template-gendloopAction",
+  "description": "创建 Action 仓库"
 }
 {
   "name": "template-gendloopApp",
@@ -37,10 +41,6 @@
 {
   "name": "template-gendloopProject",
   "description": "创建新项目仓库"
-}
-{
-  "name": "template-gendloopAction",
-  "description": "创建 Action 仓库"
 }
 {
   "name": "template-gendloopAppInstaller",
